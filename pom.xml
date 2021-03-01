@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>alertify.js</artifactId>
-    <version>1.0.11-SNAPSHOT</version>
+    <version>1.0.11</version>
     <name>alertify.js</name>
     <description>WebJar for alertify.js</description>
     <url>https://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>https://github.com/webjars/alertify.js</url>
         <connection>scm:git:https://github.com/webjars/alertify.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/alertify.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>alertify.js-1.0.11</tag>
     </scm>
 
     <properties>
