@@ -64,7 +64,9 @@
                 <executions>
                     <execution>
                         <phase>process-resources</phase>
-                        <goals><goal>run</goal></goals>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
                         <configuration>
                             <target>
                                 <get src="https://github.com/alertifyjs/alertify.js/archive/v${version.unsnapshot}.zip" dest="${project.build.directory}/${project.artifactId}.zip" />

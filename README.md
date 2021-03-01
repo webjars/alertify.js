@@ -3,7 +3,7 @@
 [Alertify.js](https://github.com/alertifyjs/alertify.js) is an customizable JavaScript notification system.. This [WebJar](https://webjars.org) includes the corresponding JavaScript and CSS files. Alertify.js is licensed under the [MIT License](http://www.opensource.org/licenses/MIT).
 
 WebJars are usually built using a plain Maven POM. This WebJar uses the
-[Wagon Maven Plugin](https://www.mojohaus.org/wagon-maven-plugin/) to download the Alertify.js files from
+[Apache Maven AntRun Plugin](https://maven.apache.org/plugins/maven-antrun-plugin/) to download the Alertify.js files from
 GitHub and puts them into the Java archive.
 
 ## Usage
